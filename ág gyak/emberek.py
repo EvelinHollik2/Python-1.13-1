@@ -23,5 +23,3 @@ for x in range(3):
 for x in range(3):
     print(t[x].nev,"")
     print(a, b, c, "szerencseszáma a", d)
-
-
