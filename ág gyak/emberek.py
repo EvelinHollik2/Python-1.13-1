@@ -9,7 +9,7 @@ class Ember():
     def fvn(nem):
         if nem =="f":
             return "Férfi"
-        elif nem =="n":
+        else nem =="n":
             return "Nő"
 
 t=[]
