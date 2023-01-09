@@ -20,8 +20,10 @@ for x in range(3):
     d=random.randint(1,50)
     t.append(Ember(a,b,c,d))
 
+pointer = open("emberek_lista.txt", "w")
 for x in range(3):
     print(t[x].nev,"")
     print(a, b, c, "szerencseszáma a", d)
-
+    pointer.write(a, b, c, "szerencseszáma a", d)
+pointer.close()
 
