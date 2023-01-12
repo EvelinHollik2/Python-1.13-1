@@ -1,0 +1,3 @@
+az info hasznos
+ez hibás
+jó az info
