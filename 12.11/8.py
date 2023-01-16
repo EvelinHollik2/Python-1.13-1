@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 #def szo_tisztitas(szo):
 #    spec = "\'\"+!%/=()~ˇ^˘°˛`˙´,.-?:_;>*>#&@\\{}łŁ$ß÷đĐ[]€"
@@ -29,7 +28,6 @@ def szavakra_bontas(szo):
     return szo[0]+''.join([ szavakra_bontas()+kar for kar in szo[1:] ])
 print(szavakra_bontas(" Most van itt az id ̋o? Igen, most."))
 print(szavakra_bontas(" ̋O megpróbált udariasan viselkedni!"))
-=======
 
 #def szo_tisztitas(szo):
 #    spec = "\'\"+!%/=()~ˇ^˘°˛`˙´,.-?:_;>*>#&@\\{}łŁ$ß÷đĐ[]€"
@@ -60,4 +58,3 @@ def szavakra_bontas(szo):
     return szo[0]+''.join([ szavakra_bontas()+kar for kar in szo[1:] ])
 print(szavakra_bontas(" Most van itt az id ̋o? Igen, most."))
 print(szavakra_bontas(" ̋O megpróbált udariasan viselkedni!"))
->>>>>>> 9e7bb9d2a3ed0d0b7619a60a492d1260ba593f83
