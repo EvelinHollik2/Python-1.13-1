@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 A harmadik szöveg!
 A második szöveg!
 Az első szöveg!
+=======
+A harmadik szöveg!
+A második szöveg!
+Az első szöveg!
+>>>>>>> f816dcd7997840446aed11088e1d8c9a3f1db076
