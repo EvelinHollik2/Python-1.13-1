@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+az info hasznos
+ez hibás
+=======
+az info hasznos
+ez hibás
+>>>>>>> f816dcd7997840446aed11088e1d8c9a3f1db076
+jó az info
